@@ -1,0 +1,8 @@
+**Situation**  
+Our top-line performance evaluation shows raw total revenue before cleaning of Rs.99,860.20, which reconciles to a cleaned total revenue of Rs.97,358.30. Initial sales figures indicated that January (2026-01) looked like Rs.29,582.10, but after removing the bulk-order outliers, it is really Rs.11,637.10. Consequently, the true peak month is March (2026-03) with Rs.20,318.90 in performance.
+
+**Complication**  
+Auditing revealed operational efficiency risks and a gap caused by duplicate orders totaling Rs.2,501.90. Furthermore, order fulfillment is heavily impacted by the return rate by payment method: CARD sits at 14.7%, UPI at 18.9%, and COD spikes to 44.4%. The primary operational concern is our highest-risk segment, which is COD orders in Tier-2 cities at 54.5%.
+
+**Resolution**  
+Regional operations and finance leads must adopt the cleaned total revenue baseline of Rs.97,358.30 and align inventory planning with the true peak month of March (2026-03) at Rs.20,318.90. Systemic fixes are required to eliminate the duplicate order gap of Rs.2,501.90. Additionally, targeted risk mitigation must focus on reducing the 44.4% COD return rate, specifically prioritizing strict order verification for COD orders in Tier-2 cities at 54.5%.
